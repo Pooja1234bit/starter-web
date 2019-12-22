@@ -8,4 +8,7 @@ This repository is for showing how Git and GitHub work
 ### copyright
 git.training
 
+####How to ?
+khcsijbvkjsnksfnkwnscnknc
+
 Sample website with plenty of files for demos
