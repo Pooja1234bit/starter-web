@@ -7,6 +7,7 @@ bcajcfbj bkBREBASE  EXAMPLE.love u all!!!!ATB:):)
 
 THE PURPOSE IS TO LEARN DEVOPS AND MASTER IT
 ### copyright
+lalalalallk
 git.training
 
 ####How to ?
